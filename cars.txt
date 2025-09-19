@@ -1,0 +1,3 @@
+C001,Toyota,Camry,60.0,false
+C002,Honda,Accord,70.0,false
+C003,Mahindra,Thar,150.0,false
